@@ -1,0 +1,60 @@
+{
+  "version": "1.0",
+  "site": "https://anupneupne.github.io",
+  "description": "Author SEO Blog \u2014 Strategies for self-published nonfiction authors",
+  "last_updated": "2026-07-01T09:00:00-04:00",
+  "posts": [
+    {
+      "slug": "seo-for-books",
+      "url": "https://anupneupne.github.io/posts/seo-for-books.html",
+      "title": "SEO for Books: A Practical Guide for Nonfiction Authors Who Want More Discoverability",
+      "description": "Learn how nonfiction authors can use SEO for books to improve Google visibility, Amazon discoverability, author authority, and reader-to-email-list conversion.",
+      "category": "Nonfiction Author SEO & Google Ranking",
+      "tags": [
+        "seo for books",
+        "book SEO",
+        "nonfiction author SEO",
+        "Amazon book optimization"
+      ],
+      "published_date": "2026-07-01",
+      "word_count": 3234,
+      "primary_keyword": "seo for books",
+      "target_audience": "self-published nonfiction authors",
+      "quick_answer": "SEO for books means optimizing your book's title, subtitle, description, backend keywords, categories, and author website so that readers searching for your topic find your work on Google and Amazon. With over 1.7 billion websites and 50 million book listings on Amazon, authors who ignore SEO are invisible to readers actively searching for solutions their book provides.",
+      "key_facts": [
+        "With over 1.7 billion websites and approximately 50 million book listings on Amazon, getting found without attention to SEO is nearly impossible for authors.",
+        "Google and Amazon use fundamentally different search algorithms: Google ranks based on relevance and authority, while Amazon ranks based on purchase signals and conversion data.",
+        "Authors should create 5 to 15 relevant keywords that reflect both the content of their book and the way readers actually search for it.",
+        "The first 200 characters of your Amazon book description are the most heavily weighted by the search algorithm.",
+        "Google Books indexes the full text of books through Google Preview, making the language inside your book a discoverability tool."
+      ],
+      "faq": [
+        {
+          "question": "What does SEO for books mean?",
+          "answer": "SEO for books means optimizing your book's title, subtitle, description, backend keywords, categories, and author website content so that search engines like Google and Amazon surface your book when readers search for topics it covers."
+        },
+        {
+          "question": "How is Amazon SEO different from Google SEO for books?",
+          "answer": "Google ranks content based on relevance, authority, and user experience signals. Amazon ranks products based on purchase signals: clicks, pageviews, conversions, and reviews."
+        },
+        {
+          "question": "How many keywords should I use for my book on Amazon?",
+          "answer": "Amazon allows 7 backend keyword fields with approximately 50 characters each. Create 5 to 15 relevant keywords. Do not repeat words from your title or subtitle in your backend keywords."
+        },
+        {
+          "question": "Does Google index the text inside my book?",
+          "answer": "Yes. Google Books indexes the full text of books through its Google Preview feature, making the language inside your book a discoverability tool."
+        },
+        {
+          "question": "What is the ideal length for a book's meta description?",
+          "answer": "A book's meta description should be between 110 and 155 characters long. Your meta title should be no longer than 60 characters."
+        }
+      ],
+      "schema_types": [
+        "Article",
+        "FAQPage",
+        "BreadcrumbList"
+      ]
+    }
+  ]
+}
