@@ -1,53 +1,64 @@
 {
   "version": "1.0",
-  "site": "https://anupneupne.github.io",
+  "site": "https://anupneupane.github.io",
   "description": "Author SEO Blog \u2014 Strategies for self-published nonfiction authors",
-  "last_updated": "2026-07-01T09:00:00-04:00",
+  "last_updated": "2026-07-03T09:00:00-04:00",
   "posts": [
     {
-      "slug": "seo-for-books",
-      "url": "https://anupneupne.github.io/posts/seo-for-books.html",
-      "title": "SEO for Books: A Practical Guide for Nonfiction Authors Who Want More Discoverability",
-      "description": "Learn how nonfiction authors can use SEO for books to improve Google visibility, Amazon discoverability, author authority, and reader-to-email-list conversion.",
-      "category": "Nonfiction Author SEO & Google Ranking",
+      "slug": "book-launch-ideas-nonfiction-authors",
+      "url": "https://anupneupne.github.io/posts/book-launch-ideas-nonfiction-authors.html",
+      "title": "Book Launch Ideas for Nonfiction Authors: 17 Tactics That Sell Books, Subscribers, and Authority",
+      "description": "17 proven book launch ideas for nonfiction authors \u2014 pre-launch tactics, launch week visibility strategies, email list growth, Amazon review systems, and a 30-day timeline.",
+      "category": "Book Launch & Marketing Strategy",
       "tags": [
-        "seo for books",
-        "book SEO",
-        "nonfiction author SEO",
-        "Amazon book optimization"
+        "book launch ideas",
+        "nonfiction book launch",
+        "book marketing",
+        "author platform",
+        "book launch strategy"
       ],
-      "published_date": "2026-07-01",
-      "word_count": 3234,
-      "primary_keyword": "seo for books",
+      "published_date": "2026-07-03T09:00:00-04:00",
+      "word_count": 2400,
+      "primary_keyword": "book launch ideas",
+      "keyword_volume": 110,
+      "keyword_difficulty": 15,
       "target_audience": "self-published nonfiction authors",
-      "quick_answer": "SEO for books means optimizing your book's title, subtitle, description, backend keywords, categories, and author website so that readers searching for your topic find your work on Google and Amazon. With over 1.7 billion websites and 50 million book listings on Amazon, authors who ignore SEO are invisible to readers actively searching for solutions their book provides.",
+      "quick_answer": "Book launch ideas for nonfiction authors must do more than generate a one-week sales spike. The most effective launch tactics build email lists, earn Amazon reviews, create authority signals, and produce content that drives traffic for months after release day. Authors who use the 80/20 rule to select 20% of these tactics for 80% of the impact consistently outperform those who try everything at once.",
       "key_facts": [
-        "With over 1.7 billion websites and approximately 50 million book listings on Amazon, getting found without attention to SEO is nearly impossible for authors.",
-        "Google and Amazon use fundamentally different search algorithms: Google ranks based on relevance and authority, while Amazon ranks based on purchase signals and conversion data.",
-        "Authors should create 5 to 15 relevant keywords that reflect both the content of their book and the way readers actually search for it.",
-        "The first 200 characters of your Amazon book description are the most heavily weighted by the search algorithm.",
-        "Google Books indexes the full text of books through Google Preview, making the language inside your book a discoverability tool."
+        "A content-focused launch email gets twice as many clicks as a 'new book announcement' email because readers want solutions, not offers.",
+        "Pre-orders help Amazon place accurate stock orders, preventing sellouts that stall sales momentum for weeks after launch.",
+        "Only 16% of Facebook page fans see organic posts, so paid amplification is required for launch visibility.",
+        "A book launch team of 15-30 supporters multiplies your reach far beyond what you can achieve alone.",
+        "A joint launch with another author doubles the crowd, splits costs, and reduces pressure on any single author."
       ],
       "faq": [
         {
-          "question": "What does SEO for books mean?",
-          "answer": "SEO for books means optimizing your book's title, subtitle, description, backend keywords, categories, and author website content so that search engines like Google and Amazon surface your book when readers search for topics it covers."
+          "question": "What is a good book launch idea for a self-published author?",
+          "answer": "A good book launch idea for a self-published author is creating a dedicated book landing page with an email opt-in bonus, then driving traffic to it through a pre-launch blog post sequence that solves the same problems the book solves. This approach builds your email list while generating pre-launch buzz, and it gives you a platform you control beyond Amazon."
         },
         {
-          "question": "How is Amazon SEO different from Google SEO for books?",
-          "answer": "Google ranks content based on relevance, authority, and user experience signals. Amazon ranks products based on purchase signals: clicks, pageviews, conversions, and reviews."
+          "question": "How do I launch a nonfiction book without a big audience?",
+          "answer": "Launch a nonfiction book without a big audience by recruiting a book launch team of 15-30 supporters who agree to share and review your book on launch day, pitching 5-10 podcasts in your niche for guest interviews, and writing guest posts on blogs your target readers already follow. A joint launch with another author in a complementary niche doubles your reach without doubling your workload."
         },
         {
-          "question": "How many keywords should I use for my book on Amazon?",
-          "answer": "Amazon allows 7 backend keyword fields with approximately 50 characters each. Create 5 to 15 relevant keywords. Do not repeat words from your title or subtitle in your backend keywords."
+          "question": "How early should I start promoting my book before launch?",
+          "answer": "Start promoting your book 60-90 days before launch. Use the first 30 days to build a pre-launch email list and create a landing page. Use days 31-60 to send review copies, pitch podcasts, and write guest posts. Use the final 30 days for launch team activation, social media countdown, and pre-order campaigns. Authors who start earlier capture more pre-orders, which helps Amazon stock accurately."
         },
         {
-          "question": "Does Google index the text inside my book?",
-          "answer": "Yes. Google Books indexes the full text of books through its Google Preview feature, making the language inside your book a discoverability tool."
+          "question": "How do I get more book reviews during launch?",
+          "answer": "Get more book reviews during launch by sending review copies to bloggers and media hosts 4-6 weeks before publication, asking your launch team to post Amazon reviews on launch day, and reaching out to reviewers of competing books on Goodreads with a complimentary copy offer. Target 25-50 reviews in the first 30 days to establish social proof that drives ongoing sales."
         },
         {
-          "question": "What is the ideal length for a book's meta description?",
-          "answer": "A book's meta description should be between 110 and 155 characters long. Your meta title should be no longer than 60 characters."
+          "question": "What should I do after my book launch?",
+          "answer": "After your book launch, repurpose each chapter into a standalone blog post optimized for SEO, turn reader questions into FAQ content, pitch yourself for podcast interviews using your launch momentum, and add the book to your speaker bio and media kit. Build a 90-day post-launch content plan that keeps the book visible through content marketing rather than paid ads."
+        },
+        {
+          "question": "How much does a book launch cost for a self-published author?",
+          "answer": "A book launch for a self-published author costs between $200 and $2,000 depending on scope. A minimal launch ($200) covers review copy shipping, a landing page tool, and social media graphics. A mid-range launch ($500-$1,000) adds Facebook or Amazon ads, a book trailer, and a virtual event platform. A comprehensive launch ($1,500-$2,000) includes a publicist, paid blog tour, and professional launch event."
+        },
+        {
+          "question": "Can I hold a book launch event after my publication date?",
+          "answer": "Yes, you can hold a book launch event weeks or even months after your publication date. Most publication dates are arbitrary, and readers will not penalize you for celebrating late. Prioritize venue availability, your own calendar, and when your target audience is most likely to attend over matching the official publication date."
         }
       ],
       "schema_types": [
@@ -55,6 +66,340 @@
         "FAQPage",
         "BreadcrumbList"
       ]
+    },
+    {
+      "slug": "book-marketing-plan-nonfiction-authors",
+      "url": "https://anupneupane.github.io/posts/book-marketing-plan-nonfiction-authors.html",
+      "title": "Book Marketing Plan for Nonfiction Authors: A 90-Day Authority-Building Framework",
+      "description": "Create a nonfiction book marketing plan that sells books, grows your email list, builds authority, and turns readers into clients, subscribers, or speaking leads.",
+      "category": "Book Launch & Marketing Strategy",
+      "tags": [
+        "book marketing plan",
+        "nonfiction book marketing",
+        "author marketing strategy",
+        "book launch marketing"
+      ],
+      "published_date": "2026-07-02T09:00:00-04:00",
+      "word_count": 2400,
+      "primary_keyword": "book marketing plan",
+      "keyword_volume": 320,
+      "keyword_difficulty": 24,
+      "quick_answer": "A book marketing plan for nonfiction authors is a strategic visibility framework that connects book sales to authority outcomes like email subscribers, consulting leads, and speaking opportunities. Unlike fiction marketing, which targets volume sales, a nonfiction plan targets reader transformation and business conversion across a 90-day timeline divided into foundation, visibility, and conversion phases.",
+      "key_facts": [
+        "Email marketing generates 5-15% purchase rates from engaged subscribers on launch day",
+        "A launch team of 50-100 readers generates 20-40 reviews in the first week",
+        "Nonfiction authors earn 5-10x more from business outcomes than royalties",
+        "Sending traffic to Amazon loses 90% of visitors who don't buy",
+        "A 6-email nurture sequence converts 3-8% of free content downloaders into buyers",
+        "Post-launch marketing should continue for at least 6 months"
+      ],
+      "faq": [
+        {
+          "question": "What is a book marketing plan?",
+          "answer": "A book marketing plan is a strategic document that outlines how you will promote your book to the right readers across multiple channels. For nonfiction authors, it should include Amazon optimization, email capture, SEO content, media outreach, and a book-to-business conversion path. The plan covers pre-launch preparation through post-launch sustained promotion."
+        },
+        {
+          "question": "How much should I spend on book marketing?",
+          "answer": "Allocate your budget across three phases: 40-60% for pre-launch activities like editing, cover design, and review copy distribution, 20-30% for launch week promotions and advertising, and 20-30% for post-launch sustained promotion over 6 months. Nonfiction authors should prioritize email capture infrastructure and SEO content over paid ads in the first 90 days."
+        },
+        {
+          "question": "When should I start marketing my nonfiction book?",
+          "answer": "Start your book marketing plan before you write your book. Pre-writing planning helps you determine reader demand, identify promotional opportunities early, and assess competitive positioning. If your book is already published, start now. Send review copies 6-8 weeks before launch, schedule podcast appearances 4-6 weeks in advance, and build your email list continuously."
+        },
+        {
+          "question": "How do nonfiction authors make money from a book?",
+          "answer": "Nonfiction authors generate 5-10x more revenue from business outcomes than royalties alone. A book-to-business funnel uses the book as a trust-building entry point that leads to consulting engagements, speaking bookings, course sales, or coaching clients. Track consulting inquiries and speaking requests as primary revenue indicators, not just royalty statements."
+        },
+        {
+          "question": "Should I send traffic to Amazon or my own landing page?",
+          "answer": "Send traffic to an author-owned landing page first, not directly to Amazon. Amazon does not let you capture email addresses or retarget browsers, meaning you lose 90% of visitors who do not buy on their first visit. Your landing page should capture emails with a reader magnet, then redirect to Amazon for purchase."
+        },
+        {
+          "question": "How long should I market my book after launch?",
+          "answer": "Continue active marketing for at least 6 months after launch. Most books see their strongest sales period between months 2 and 6 when word-of-mouth compounds. Post-launch activities should include SEO content creation, email nurture sequences, podcast outreach, and review follow-up to sustain momentum beyond the initial launch spike."
+        },
+        {
+          "question": "What metrics should nonfiction authors track?",
+          "answer": "Track 6 metrics: Amazon sales rank and review count, email subscriber growth, keyword rankings for your book topic, book landing page traffic, podcast or media mentions, and consulting or speaking inquiries. Royalty revenue alone understates your book's business value. Authors who track all 6 metrics can optimize their marketing plan based on real data."
+        }
+      ],
+      "schema_types": [
+        "Article",
+        "FAQPage",
+        "BreadcrumbList"
+      ]
+    },
+    {
+      "slug": "author-landing-page-examples",
+      "url": "https://anupneupane.github.io/posts/author-landing-page-examples.html",
+      "title": "13 Author Landing Page Examples: How Nonfiction Authors Can Turn Book Traffic Into Subscribers, Sales, and Clients",
+      "description": "Discover 13 real-world author landing page examples and learn how to implement the BOOK framework to convert book readers into subscribers and high-ticket clients.",
+      "category": "Author Website / Platform",
+      "tags": [
+        "author landing page examples",
+        "book landing page examples",
+        "author landing page",
+        "book landing page",
+        "author platform"
+      ],
+      "published_date": "2026-06-27T09:00:00-04:00",
+      "word_count": 3890,
+      "primary_keyword": "author landing page examples",
+      "keyword_volume": 30,
+      "keyword_difficulty": 0
+    },
+    {
+      "slug": "eeat-for-authors",
+      "url": "https://anupneupane.github.io/posts/eeat-for-authors.html",
+      "title": "E-E-A-T for Authors: How to Build Google Trust as a Nonfiction Writer",
+      "description": "Learn how nonfiction self-published authors build E-E-A-T signals that rank on Google \u2014 author bios, schema markup, topic clusters, and entity authority.",
+      "category": "Author SEO",
+      "tags": [
+        "e-e-a-t for authors",
+        "author seo",
+        "google authorship",
+        "author schema",
+        "topical authority"
+      ],
+      "published_date": "2026-06-06T09:00:00-04:00",
+      "word_count": 2200,
+      "primary_keyword": "e-e-a-t for authors",
+      "keyword_volume": 1000,
+      "keyword_difficulty": 21
+    },
+    {
+      "slug": "nonfiction-book-launch-timeline",
+      "url": "https://anupneupane.github.io/posts/nonfiction-book-launch-timeline.html",
+      "title": "Nonfiction Book Launch Timeline: The 90-Day Strategy That Builds Authority and Sales",
+      "description": "The complete 90-day nonfiction book launch timeline \u2014 from pre-launch email list building to post-launch SEO content \u2014 so your book becomes a long-term authority asset.",
+      "category": "Book Launch Strategy",
+      "tags": [
+        "nonfiction book launch timeline",
+        "book launch strategy",
+        "90-day book launch",
+        "self-published author launch"
+      ],
+      "published_date": "2026-06-04T09:00:00-04:00",
+      "word_count": 2400,
+      "primary_keyword": "nonfiction book launch timeline",
+      "keyword_volume": 590,
+      "keyword_difficulty": 32
+    },
+    {
+      "slug": "book-launch-team-checklist",
+      "url": "https://anupneupane.github.io/posts/book-launch-team-checklist.html",
+      "title": "Book Launch Team Checklist: How to Recruit, Organize, and Activate Readers Before Release Day",
+      "description": "The complete book launch team checklist for nonfiction authors. Recruit 20-50 ARC readers, deliver advance copies, and activate launch week with a precise content schedule.",
+      "category": "Book Launch Strategy",
+      "tags": [
+        "book launch team checklist",
+        "book launch team",
+        "arc readers",
+        "book launch strategy"
+      ],
+      "published_date": "2026-06-03T09:00:00-04:00",
+      "word_count": 2200,
+      "primary_keyword": "book launch team checklist",
+      "keyword_volume": 320,
+      "keyword_difficulty": 28
+    },
+    {
+      "slug": "author-newsletter-strategy",
+      "url": "https://anupneupane.github.io/posts/author-newsletter-strategy.html",
+      "title": "Author Newsletter Strategy: Build a List That Sells Books",
+      "description": "Build an author email list that converts readers into buyers. Covers lead magnets, welcome sequences, content cadence, and segmentation for nonfiction authors.",
+      "category": "Author Platform",
+      "tags": [
+        "author newsletter strategy",
+        "author email list",
+        "book marketing",
+        "email marketing for authors"
+      ],
+      "published_date": "2026-06-02T09:00:00-04:00",
+      "word_count": 2300,
+      "primary_keyword": "author newsletter strategy",
+      "keyword_volume": 480,
+      "keyword_difficulty": 22
+    },
+    {
+      "slug": "amazon-author-central-optimization",
+      "url": "https://anupneupane.github.io/posts/amazon-author-central-optimization.html",
+      "title": "Amazon Author Central Optimization: The Complete Guide for KDP Authors",
+      "description": "Optimize your Amazon Author Central profile to rank in Google, build reader trust, and increase book sales. Covers bio, editorial reviews, A+ content, and series pages.",
+      "category": "Amazon KDP",
+      "tags": [
+        "amazon author central",
+        "amazon author page",
+        "kdp optimization",
+        "amazon book marketing"
+      ],
+      "published_date": "2026-06-01T09:00:00-04:00",
+      "word_count": 2100,
+      "primary_keyword": "amazon author central optimization",
+      "keyword_volume": 590,
+      "keyword_difficulty": 24
+    },
+    {
+      "slug": "amazon-ads-for-authors",
+      "url": "https://anupneupane.github.io/posts/amazon-ads-for-authors.html",
+      "title": "Amazon Ads for Authors: The Nonfiction Author's Complete Guide",
+      "description": "Step-by-step Amazon Ads guide for self-published nonfiction authors. Covers Sponsored Products, keyword targeting, bid strategy, and scaling what works.",
+      "category": "Amazon KDP",
+      "tags": [
+        "amazon ads for authors",
+        "kdp advertising",
+        "amazon book ads",
+        "sponsored products"
+      ],
+      "published_date": "2026-05-31T09:00:00-04:00",
+      "word_count": 2800,
+      "primary_keyword": "amazon ads for authors",
+      "keyword_volume": 1900,
+      "keyword_difficulty": 30
+    },
+    {
+      "slug": "how-to-brand-yourself-as-a-writer-online",
+      "url": "https://anupneupane.github.io/posts/how-to-brand-yourself-as-a-writer-online.html",
+      "title": "How to Brand Yourself as a Writer Online: The Authority Author Framework",
+      "description": "Build a recognizable author brand online with a clear niche, consistent visual identity, and content strategy that positions you as the go-to expert in your topic.",
+      "category": "Author Platform",
+      "tags": [
+        "how to brand yourself as a writer online",
+        "author branding",
+        "writer brand",
+        "author platform"
+      ],
+      "published_date": "2026-05-30T09:00:00-04:00",
+      "word_count": 2500,
+      "primary_keyword": "how to brand yourself as a writer online",
+      "keyword_volume": 720,
+      "keyword_difficulty": 28
+    },
+    {
+      "slug": "author-seo-guide",
+      "url": "https://anupneupane.github.io/posts/author-seo-guide.html",
+      "title": "Author SEO Guide: How to Rank Your Author Website on Google",
+      "description": "The complete author SEO guide for self-published nonfiction authors. Covers keyword research, on-page SEO, technical SEO, content strategy, and link building.",
+      "category": "SEO Strategy",
+      "tags": [
+        "author seo",
+        "author website seo",
+        "seo for authors",
+        "rank author website google"
+      ],
+      "published_date": "2026-05-29T09:00:00-04:00",
+      "word_count": 3200,
+      "primary_keyword": "author seo guide",
+      "keyword_volume": 390,
+      "keyword_difficulty": 25
+    },
+    {
+      "slug": "how-to-rank-nonfiction-book-google",
+      "url": "https://anupneupane.github.io/posts/how-to-rank-nonfiction-book-google.html",
+      "title": "How to Rank Your Nonfiction Book on Google: The Author SEO Framework",
+      "description": "Rank your nonfiction book on Google with topic cluster content, book landing page SEO, author schema, and E-E-A-T signals. Includes the 5-step author SEO framework.",
+      "category": "SEO Strategy",
+      "tags": [
+        "rank nonfiction book google",
+        "nonfiction book seo",
+        "book landing page seo",
+        "author seo"
+      ],
+      "published_date": "2026-05-28T09:00:00-04:00",
+      "word_count": 2900,
+      "primary_keyword": "how to rank nonfiction book google",
+      "keyword_volume": 210,
+      "keyword_difficulty": 22
+    },
+    {
+      "slug": "amazon-kdp-keyword-research-guide",
+      "url": "https://anupneupane.github.io/posts/amazon-kdp-keyword-research-guide.html",
+      "title": "Amazon KDP Keyword Research: The Complete Guide for Nonfiction Authors",
+      "description": "Master Amazon KDP keyword research for nonfiction books. Covers the 7 backend keyword fields, Publisher Rocket, competitor ASIN analysis, and category optimization.",
+      "category": "Amazon KDP",
+      "tags": [
+        "amazon kdp keyword research",
+        "kdp keywords",
+        "amazon book keywords",
+        "backend keywords"
+      ],
+      "published_date": "2026-05-28T09:00:00-04:00",
+      "word_count": 2700,
+      "primary_keyword": "amazon kdp keyword research",
+      "keyword_volume": 1300,
+      "keyword_difficulty": 28
+    },
+    {
+      "slug": "author-content-calendar-seo",
+      "url": "https://anupneupane.github.io/posts/author-content-calendar-seo.html",
+      "title": "Author Content Calendar: The SEO System for Nonfiction Writers",
+      "description": "Build an SEO content calendar that drives monthly traffic growth for self-published nonfiction authors. Covers topic clusters, keyword batching, and publishing cadence.",
+      "category": "Content Strategy",
+      "tags": [
+        "author content calendar",
+        "content calendar seo",
+        "author blog strategy",
+        "nonfiction content marketing"
+      ],
+      "published_date": "2026-05-28T09:00:00-04:00",
+      "word_count": 2400,
+      "primary_keyword": "author content calendar",
+      "keyword_volume": 320,
+      "keyword_difficulty": 20
+    },
+    {
+      "slug": "author-website-seo-checklist",
+      "url": "https://anupneupane.github.io/posts/author-website-seo-checklist.html",
+      "title": "Author Website SEO Checklist: 27 Optimizations That Drive Book Sales",
+      "description": "The 27-point author website SEO checklist covering technical SEO, on-page optimization, schema markup, and conversion elements that turn visitors into book buyers.",
+      "category": "Author Platform",
+      "tags": [
+        "author website seo checklist",
+        "author website seo",
+        "seo checklist",
+        "author site optimization"
+      ],
+      "published_date": "2026-05-28T09:00:00-04:00",
+      "word_count": 3100,
+      "primary_keyword": "author website seo checklist",
+      "keyword_volume": 260,
+      "keyword_difficulty": 18
+    },
+    {
+      "slug": "backlinks-for-authors",
+      "url": "https://anupneupane.github.io/posts/backlinks-for-authors.html",
+      "title": "Backlinks for Authors: How to Build Domain Authority Without Cold Outreach",
+      "description": "Build high-quality backlinks to your author website without cold outreach. Covers guest posting, podcast appearances, HARO, resource page outreach, and PR strategies.",
+      "category": "SEO Strategy",
+      "tags": [
+        "backlinks for authors",
+        "author link building",
+        "domain authority authors",
+        "author seo"
+      ],
+      "published_date": "2026-05-28T09:00:00-04:00",
+      "word_count": 2600,
+      "primary_keyword": "backlinks for authors",
+      "keyword_volume": 170,
+      "keyword_difficulty": 20
+    },
+    {
+      "slug": "how-to-market-a-book",
+      "url": "https://anupneupane.github.io/posts/how-to-market-a-book.html",
+      "title": "How to Market a Book: The Nonfiction Author's Visibility System",
+      "description": "The complete book marketing system for self-published nonfiction authors covering SEO content, Amazon optimization, podcast guesting, SEO content clusters, and launch strategy.",
+      "category": "Content Strategy",
+      "tags": [
+        "how to market a book",
+        "book marketing",
+        "self-published author marketing",
+        "nonfiction book launch"
+      ],
+      "published_date": "2026-05-28T09:00:00-04:00",
+      "word_count": 3800,
+      "primary_keyword": "how to market a book",
+      "keyword_volume": 5400,
+      "keyword_difficulty": 35
     }
   ]
 }
